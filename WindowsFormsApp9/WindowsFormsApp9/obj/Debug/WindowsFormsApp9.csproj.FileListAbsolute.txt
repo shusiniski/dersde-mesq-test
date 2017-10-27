@@ -1,0 +1,3 @@
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+c:\users\p203\documents\visual studio 2017\Projects\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.Cache
